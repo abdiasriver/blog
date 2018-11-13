@@ -6,6 +6,7 @@ keywords: ["sync-paused", "chrome"]
 topics: ["Aportes"]
 tags: ["Chrome"]
 ---
+# Solucionaremos el error de sincronizacion de la cuenta chrome
 
 Error encontrado en Google Chrome hace unos dias
 Me parecio desesperante tener que entrar a la cuenta de sincronizacion de chrome cada vez que lo cerraba por que me aparecia Sync Paused (sincronizacion pausada), al parecer en mi querido linux chrome se acaba de actualizar y por lo visto faltan algunos detalles, no tengo conocimiento si esto pase tambien en windows, pero supogo será lo mismo.
