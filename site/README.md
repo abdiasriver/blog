@@ -1,7 +1,7 @@
 ---
 layout: Homepage
 description: 'Tips para cuidado tips linux windows web seo tidal blog apunes notas sobre educacion trucos'
-avatar: /profile.png
+avatar: /profile.webp
 keywords: 'tips para, cuidado personal, linux, windows, documentos, notas, utilidades, web github codigo video comparto tidal'
 head: 'AbdiasRiver'
 info: 'Compartiendo tips'
