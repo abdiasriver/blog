@@ -17,7 +17,7 @@ Me parecio desesperante tener que entrar a la cuenta de sincronizacion de chrome
 
 `chrome://flags/#account-consistency`
 
-y en la parte que dice `enable` lo cambiamos por `Disable`
+y en la parte que dice `enable` lo cambiamos por `Enable dice(fix auth errors)`
 Cerramos chrome y lo volvemos a abrir, iniciamos sesión como de costumbre y checamos cerrando y abriendo para ver si ha surtido efecto.
 
 A mi me funcionó muy bien, espero les haya servido.
