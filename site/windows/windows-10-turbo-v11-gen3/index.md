@@ -8,7 +8,7 @@ tags: ["Aportes"]
 ---
 # WINDOWS 10 OPTIMIZADO PARA ORDENADORES
 ::: danger ALTO LEE
-Se ofrece solo para projectos educativos,tengo entendido este windows ha sido liberado al publico por @TecnicosInsideSoporte telegram
+Se ofrece solo para proyectos educativos,tengo entendido este windows ha sido liberado al publico por @TecnicosInsideSoporte telegram
 :::
 
 **Windows 10 turbo v11**  es un gran proyecto en el area de los windows modificados que por lo general vienen mas ligeros y en este caso esta version de **windows** es una preciosidad ya que cuenta con tres tipos de **optimizaciones** en uno solo y trae aproximadamente mas de 200 **optimizaciones**, viene en tres idiomas preinstalados, ingles, español y aleman.
