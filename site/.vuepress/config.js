@@ -29,7 +29,8 @@ module.exports = {
         '',      /* /bar/ */
         '/blog/Sync-Paused-Google-chrome-error/', /* /bar/three.html */
         '/blog/Cuenta-tidal-7meses-full-gratis-free/',
-        '/windows/Descarga-musica-athame-tidal/'   /* /bar/four.html */
+        '/windows/Descarga-musica-athame-tidal/',  /* /bar/four.html */
+        '/blog/gdrive-ilimitado/'
       ],
 
       '/windows/': [

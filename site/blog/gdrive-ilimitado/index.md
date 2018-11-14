@@ -9,7 +9,7 @@ tags: ["GDRIVE"]
 
 # GDRIVE ILIMITADO CUENTA GSUITE EDUCATIVA
 
-![GDRIVE ILIMITADO](./gdrive-ilimitado.webp) <!-- TODO smallimage -->
+![GDRIVE ILIMITADO](./gdrive-ilimitado.png) <!-- TODO smallimage -->
 
 Gdrive es sin duda globalmente conocido por pertenecer a google y por ofrecer a los usuarios una interfaz fresca y facil de manejar, ademas que los archivos que se guarden en la *nube* pueden ser compartidos con el publico o de forma privada, el unico problema y ni tan problema es su capacidad de **almacenamiento**, y que habemos internautas que necesitamos mas capacidad para guardar, libros, isos, sistemaas operativos, musica, y demas de forma legal, siendo necesario migrar a mas espacio o a una cuenta **gdrive ilimitada**.
 
