@@ -18,10 +18,10 @@ Gdrive es sin duda globalmente conocido por pertenecer a google y por ofrecer a 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7V9Im_Myc38" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-###LAS CUENTAS PARA LA NUBE DE GDRIVE SON CON ESPACIO ILIMITADO DE POR VIDA , LA MECANICA PARA SER ELEGIBLE A UNA DE ELLAS ES LA SIGUIENTE.
+### LAS CUENTAS PARA LA NUBE DE GDRIVE SON CON ESPACIO ILIMITADO DE POR VIDA , LA MECANICA PARA SER ELEGIBLE A UNA DE ELLAS ES LA SIGUIENTE.
 
 
-##SE REGALARAN 5 CUENTAS. 1 PARA CADA GANADOR
+## SE REGALARAN 5 CUENTAS. 1 PARA CADA GANADOR
 
 
 1. CREAR 5 POSTS DESDE [Dilinger](https://dillinger.io/)  ESTE EDITOR ONLINE, CON CONTENIDO INTERESANTE Y RELEVANTE, EL TEMA ES A ELEGIR.
@@ -38,6 +38,6 @@ Gdrive es sin duda globalmente conocido por pertenecer a google y por ofrecer a 
 
 
 
-#CONDICIONES
+# CONDICIONES
 
  SI SE TE OTORGA UNA **CUENTA ILIMITADA** PARA MANTENERLA DEVES SEGUIR ENVIANDO POR MES 2 POSTS.
